@@ -12,6 +12,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=xCaqsuette1337&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
