@@ -12,7 +12,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=xCaqsuette1337&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-https://camo.githubusercontent.com/0464ddf5c8b77ac9f8f09e523218f34b1b1232d1b2488de484d0bb9b8521fd6f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f25374276656e617879742537442f636f756e742e737667
+[![](https://camo.githubusercontent.com/0464ddf5c8b77ac9f8f09e523218f34b1b1232d1b2488de484d0bb9b8521fd6f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f25374276656e617879742537442f636f756e742e737667)]
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
